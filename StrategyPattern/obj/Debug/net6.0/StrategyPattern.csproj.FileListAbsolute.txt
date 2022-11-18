@@ -1,0 +1,15 @@
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/bin/Debug/net6.0/StrategyPattern
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/bin/Debug/net6.0/StrategyPattern.deps.json
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/bin/Debug/net6.0/StrategyPattern.runtimeconfig.json
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/bin/Debug/net6.0/StrategyPattern.dll
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/bin/Debug/net6.0/StrategyPattern.pdb
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.csproj.AssemblyReference.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.AssemblyInfoInputs.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.AssemblyInfo.cs
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.dll
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/obj/Debug/net6.0/refint/StrategyPattern.dll
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.pdb
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.genruntimeconfig.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/StrategyPattern/obj/Debug/net6.0/ref/StrategyPattern.dll
