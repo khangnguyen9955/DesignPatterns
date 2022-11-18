@@ -1,0 +1,15 @@
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/bin/Debug/net6.0/ObserverPattern
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/bin/Debug/net6.0/ObserverPattern.deps.json
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/bin/Debug/net6.0/ObserverPattern.runtimeconfig.json
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/bin/Debug/net6.0/ObserverPattern.dll
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/bin/Debug/net6.0/ObserverPattern.pdb
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/obj/Debug/net6.0/ObserverPattern.csproj.AssemblyReference.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/obj/Debug/net6.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/obj/Debug/net6.0/ObserverPattern.AssemblyInfoInputs.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/obj/Debug/net6.0/ObserverPattern.AssemblyInfo.cs
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/obj/Debug/net6.0/ObserverPattern.csproj.CoreCompileInputs.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/obj/Debug/net6.0/ObserverPattern.dll
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/obj/Debug/net6.0/refint/ObserverPattern.dll
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/obj/Debug/net6.0/ObserverPattern.pdb
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/obj/Debug/net6.0/ObserverPattern.genruntimeconfig.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/ObserverPattern/obj/Debug/net6.0/ref/ObserverPattern.dll
