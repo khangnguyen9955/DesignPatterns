@@ -6,7 +6,6 @@ namespace CoffeeStore
         static void Main(string[] args)
         {
            var coffeeStore = new CoffeeStore();
-
            coffeeStore.OrderCoffee("cappuccino");
            coffeeStore.OrderCoffee("latte");
         }

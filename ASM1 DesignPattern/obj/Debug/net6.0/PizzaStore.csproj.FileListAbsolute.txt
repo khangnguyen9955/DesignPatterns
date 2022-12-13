@@ -1,0 +1,15 @@
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/bin/Debug/net6.0/PizzaStore
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/bin/Debug/net6.0/PizzaStore.deps.json
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/bin/Debug/net6.0/PizzaStore.runtimeconfig.json
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/bin/Debug/net6.0/PizzaStore.dll
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/bin/Debug/net6.0/PizzaStore.pdb
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/obj/Debug/net6.0/PizzaStore.csproj.AssemblyReference.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/obj/Debug/net6.0/PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/obj/Debug/net6.0/PizzaStore.AssemblyInfoInputs.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/obj/Debug/net6.0/PizzaStore.AssemblyInfo.cs
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/obj/Debug/net6.0/PizzaStore.csproj.CoreCompileInputs.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/obj/Debug/net6.0/PizzaStore.dll
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/obj/Debug/net6.0/refint/PizzaStore.dll
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/obj/Debug/net6.0/PizzaStore.pdb
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/obj/Debug/net6.0/PizzaStore.genruntimeconfig.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/PizzaStore/obj/Debug/net6.0/ref/PizzaStore.dll
