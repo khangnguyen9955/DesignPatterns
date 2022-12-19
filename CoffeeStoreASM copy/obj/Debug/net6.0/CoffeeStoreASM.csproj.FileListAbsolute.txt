@@ -1,0 +1,15 @@
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/bin/Debug/net6.0/CoffeeStoreASM
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/bin/Debug/net6.0/CoffeeStoreASM.deps.json
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/bin/Debug/net6.0/CoffeeStoreASM.runtimeconfig.json
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/bin/Debug/net6.0/CoffeeStoreASM.dll
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/bin/Debug/net6.0/CoffeeStoreASM.pdb
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/obj/Debug/net6.0/CoffeeStoreASM.csproj.AssemblyReference.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/obj/Debug/net6.0/CoffeeStoreASM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/obj/Debug/net6.0/CoffeeStoreASM.AssemblyInfoInputs.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/obj/Debug/net6.0/CoffeeStoreASM.AssemblyInfo.cs
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/obj/Debug/net6.0/CoffeeStoreASM.csproj.CoreCompileInputs.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/obj/Debug/net6.0/CoffeeStoreASM.dll
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/obj/Debug/net6.0/refint/CoffeeStoreASM.dll
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/obj/Debug/net6.0/CoffeeStoreASM.pdb
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/obj/Debug/net6.0/CoffeeStoreASM.genruntimeconfig.cache
+/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/obj/Debug/net6.0/ref/CoffeeStoreASM.dll

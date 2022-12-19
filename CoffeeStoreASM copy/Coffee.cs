@@ -39,9 +39,7 @@
         Console.WriteLine("Brewing..." + name);
       }
       public void Delivering(){
-        System.Console.WriteLine("Delivering..." + name + " with " + sugar +" sugar " + "with " + hotCold + " ice " + "with " + espresso +" oz espresso shots" );
-        System.Console.WriteLine("--------------------------------------------------");
-        System.Console.WriteLine();
+        System.Console.WriteLine("Delivering..." + name + " with " + sugar +" sugar " + "with " + hotCold + " ice " + "with " + espresso +" oz shot" );
       }
   
     }

@@ -1,18 +1,12 @@
 using System;
-namespace CoffeeStore.Stores{
-public abstract class CoffeeStore
+namespace CoffeeStore{
+public abstract class CoffeeStoreBuilder
 {
- public void orderCoffee(string nameCoffee){
- Coffee coffee;   
- coffee = CreateCoffee(nameCoffee);
-      coffee.Prepare();
-      coffee.Grinding();
-      coffee.Brewing();
-      coffee.Delivering();
 
-  }
-  protected abstract Coffee CreateCoffee(string nameCoffee);
-    protected void GetProperties(out Sugar sugar, out HotCold hotCold, out Espresso espresso)
+  public abstract void OrderCoffee(string nameCoffee);
+    
+
+    protected static void GetProperties(out Sugar sugar, out HotCold hotCold, out Espresso espresso)
     {
       System.Console.WriteLine("Select amount sugar of your coffee: ");
       var sugarTypes = Enum.GetNames(typeof(Sugar)).Length;
@@ -48,7 +42,7 @@ public abstract class CoffeeStore
       espresso = (Espresso)espressoSelect;
     }
 
+   
 
-
-}
+  }
 }
