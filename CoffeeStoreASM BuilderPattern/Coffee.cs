@@ -40,6 +40,7 @@
       }
       public void Delivering(){
         System.Console.WriteLine("Delivering..." + name + " with " + sugar +" sugar " + "with " + hotCold + " ice " + "with " + espresso +" oz shot" );
+        System.Console.WriteLine("-----------------------------------------------------------------------");
       }
   
     }

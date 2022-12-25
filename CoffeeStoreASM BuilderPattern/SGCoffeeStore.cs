@@ -2,13 +2,13 @@ namespace CoffeeStore
 {
   public class SGCoffeeStore : CoffeeStoreBuilder
   { 
- 
-    public override void OrderCoffee(string nameCoffee)
-    {
-       Coffee coffee;
+   Coffee coffee;
       Sugar sugar;
       HotCold hotCold;
-      Espresso espresso; 
+      Espresso espresso;  
+    public override void OrderCoffee(string nameCoffee)
+    {
+    
       switch (nameCoffee)
       {
         case "black":
@@ -35,7 +35,7 @@ namespace CoffeeStore
     }
 
     public void getResult(){
-      System.Console.WriteLine("Return the coffee information");
+      System.Console.WriteLine("Return the Saigon coffee information" + coffee + sugar + hotCold + espresso);
     }
   }
 

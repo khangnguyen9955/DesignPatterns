@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/CoffeeStoreASM.csproj",
+      "projectUniqueName": "/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM BuilderPattern/CoffeeStoreASM.csproj",
       "projectName": "CoffeeStoreASM",
-      "projectPath": "/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/CoffeeStoreASM.csproj",
+      "projectPath": "/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM BuilderPattern/CoffeeStoreASM.csproj",
       "packagesPath": "/Users/khangnguyen9955/.nuget/packages/",
-      "outputPath": "/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM/obj/",
+      "outputPath": "/Users/khangnguyen9955/Documents/School/1651 Advanced Programming/projects/CoffeeStoreASM BuilderPattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/khangnguyen9955/.nuget/NuGet/NuGet.Config"
